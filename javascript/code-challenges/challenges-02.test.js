@@ -84,7 +84,7 @@ const forEachTwoToThe = (arr) => {
       newArr.push(Math.pow(2.0, num));
     }
   })
-
+ 
   return newArr;
 };
 
