@@ -25,8 +25,17 @@ let starWarsPeople = [
 ];
 
 const sortStarWarsCharacters = (starWarsArr) => {
-
-}
+  let newArr = starWarsArr.sort((a, b)=>{
+    if(a.name.split('').length>b.name.split('').length){
+      return -1
+    }else if(a.name.split('').length<b.name.split('').length){
+      return 1
+    }else{
+      return 0
+    }
+  })
+  return newArr
+};
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 2
