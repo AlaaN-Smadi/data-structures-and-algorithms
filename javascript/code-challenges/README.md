@@ -25,3 +25,33 @@ You can see the results of your tests online in the "Actions" tab of your reposi
 ## Assignment Submission
 
 When you finish the assignment each day, make a new pull request from your daily challenge branch to your master branch and submit the PR URL in Canvas. You can submit a link to a pull request even if the pull request is closed.
+
+
+
+## 401 Challenges
+
+**code 01**
+
+to run test code 01 =>  npm test 041
+
+# Reverse an Array
+<!-- Description of the challenge -->
+link for code Challenge 01 on GitHub.com : [Open Link](https://github.com/AlaaN-Smadi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-041.test.js) 
+
+link for testing code Challenge 01 on replit.com : [Open Link](https://us05web.zoom.us/j/84851147229?pwd=aVJHOUNEWVN1UnlHeUZETGRSU1AvQT09) 
+
+It was nice challenge ;  all of knowledge we studied them in previous courses
+
+
+## Whiteboard Process
+<!-- Embedded whiteboard image -->
+![Code_401_01](../images/array-reverse.PNG)
+
+
+## Approach & Efficiency
+<!-- What approach did you take? Discuss Why. What is the Big O space/time for this approach? -->
+
+I used for loop and map , and I used quality test to make sure that all of my functions will work 
+I used replit to test my functions before test them on VS Code
+
+
